@@ -1,0 +1,16 @@
+C:\Users\Giorgi\source\repos\Visual Studio Solution\Visual Studio Solution\bin\Debug\net5.0\Visual Studio Solution.exe
+C:\Users\Giorgi\source\repos\Visual Studio Solution\Visual Studio Solution\bin\Debug\net5.0\Visual Studio Solution.deps.json
+C:\Users\Giorgi\source\repos\Visual Studio Solution\Visual Studio Solution\bin\Debug\net5.0\Visual Studio Solution.runtimeconfig.json
+C:\Users\Giorgi\source\repos\Visual Studio Solution\Visual Studio Solution\bin\Debug\net5.0\Visual Studio Solution.runtimeconfig.dev.json
+C:\Users\Giorgi\source\repos\Visual Studio Solution\Visual Studio Solution\bin\Debug\net5.0\Visual Studio Solution.dll
+C:\Users\Giorgi\source\repos\Visual Studio Solution\Visual Studio Solution\bin\Debug\net5.0\Visual Studio Solution.pdb
+C:\Users\Giorgi\source\repos\Visual Studio Solution\Visual Studio Solution\obj\Debug\net5.0\Visual Studio Solution.csproj.AssemblyReference.cache
+C:\Users\Giorgi\source\repos\Visual Studio Solution\Visual Studio Solution\obj\Debug\net5.0\Visual Studio Solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giorgi\source\repos\Visual Studio Solution\Visual Studio Solution\obj\Debug\net5.0\Visual Studio Solution.AssemblyInfoInputs.cache
+C:\Users\Giorgi\source\repos\Visual Studio Solution\Visual Studio Solution\obj\Debug\net5.0\Visual Studio Solution.AssemblyInfo.cs
+C:\Users\Giorgi\source\repos\Visual Studio Solution\Visual Studio Solution\obj\Debug\net5.0\Visual Studio Solution.csproj.CoreCompileInputs.cache
+C:\Users\Giorgi\source\repos\Visual Studio Solution\Visual Studio Solution\obj\Debug\net5.0\Visual Studio Solution.dll
+C:\Users\Giorgi\source\repos\Visual Studio Solution\Visual Studio Solution\obj\Debug\net5.0\refint\Visual Studio Solution.dll
+C:\Users\Giorgi\source\repos\Visual Studio Solution\Visual Studio Solution\obj\Debug\net5.0\Visual Studio Solution.pdb
+C:\Users\Giorgi\source\repos\Visual Studio Solution\Visual Studio Solution\obj\Debug\net5.0\Visual Studio Solution.genruntimeconfig.cache
+C:\Users\Giorgi\source\repos\Visual Studio Solution\Visual Studio Solution\obj\Debug\net5.0\ref\Visual Studio Solution.dll
